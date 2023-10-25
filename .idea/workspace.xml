@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dbe6be2-c401-4c06-a8d6-71daaf0b213d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab_2/src/default_package/PointCP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_2/src/default_package/PointCPTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/lab2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/src/default_package/PointCP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/src/default_package/PointCPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/src/default_package/PointCPTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/src/default_package/PointCPTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
