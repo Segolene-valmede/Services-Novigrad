@@ -6,25 +6,25 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
         android:layout_marginLeft="100dp"
+        android:layout_marginTop="80dp"
         android:layout_marginRight="100dp"
         android:text="Welcome"
-        android:textSize="25dp" />
-
+        android:textSize="26dp" />
 
     <Button
         android:id="@+id/buttonCreateAccount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAlignment="textStart"
-        android:layout_marginTop="250dp"
         android:layout_marginLeft="80dp"
+        android:layout_marginTop="250dp"
         android:layout_marginRight="80dp"
-        android:text="Are you a new user? Sign up" />
+        android:text="Are you a new user? Sign up"
+        android:textAlignment="textStart" />
 
     <Button
         android:id="@+id/buttonSignIn"
